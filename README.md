@@ -25,7 +25,7 @@ The objective of this assignment is to automate the validation that all users fr
 
 ## Implementation Steps
 1. **Set Up Environment**
-   - Choose a programming language and set up the necessary dependencies (e.g., Rest Assured for Java, Requests for Python).
+   - See Prerequisite Section.
   
 2. **Fetch Users**
    - Retrieve the list of users from the `/users` endpoint.
@@ -56,5 +56,9 @@ Clone the project repository to your local machine using Git. Replace `YOUR_REPO
 
 ```bash
 git clone YOUR_REPOSITORY_URL
-
+```
+Open Eclipse.
+Go to File > Import....
+Select Maven > Existing Maven Projects.
+Browse to the location of your cloned repository and click Finish.
   
